@@ -1,0 +1,23 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "cluster-master": "^0.2.1",
+    "fluent-ffmpeg": "^2.0.1",
+    "handbrake-js": "^2.0.9",
+    "hiredis": "^0.4.1",
+    "lodash": "^4.6.1",
+    "mimovie": "^2.0.2",
+    "mongoose": "^4.4.7",
+    "pretty-bytes": "^3.0.1",
+    "redis": "^2.4.2"
+  }
+}
